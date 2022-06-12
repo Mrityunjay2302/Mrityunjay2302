@@ -1,4 +1,4 @@
-# **\< Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">, I'm Mrityunjay Kumar \/>**
+# **\< Hi , I'm Mrityunjay Kumar \/>**
 Hi,I'm a very ambitious front-end developer looking for a role in an established IT company with the opportunity to work with the technologies on challenging and diverse projects. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjay2302&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjay2302" /> </p>
